@@ -39,14 +39,6 @@ Cybersecurity • Data Analysis • Applied Mathematics
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/kaushav07" />
-</p>
-
----
-
 ## **📉 Activity Graph**
 
 <p align="center">
