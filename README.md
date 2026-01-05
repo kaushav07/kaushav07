@@ -31,10 +31,10 @@ Cybersecurity • Data Analysis • Applied Mathematics
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Summary
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/kaushav07" alt="Kaushav's GitHub chart" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaushav07&theme=tokyonight" />
 </p>
 
 ---
