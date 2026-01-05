@@ -31,12 +31,10 @@ Cybersecurity • Data Analysis • Applied Mathematics
 
 ---
 
-## **📊 GitHub Stats & Analytics**
-
-### 🔥 **GitHub Streak**
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kaushav07&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://ghchart.rshah.org/409ba5/kaushav07" alt="Kaushav's GitHub chart" />
 </p>
 
 ---
