@@ -1,50 +1,47 @@
-# **Hi, I'm Kaushav 👋**
+<div align="center">
 
-### **Software Developer • AI/ML Enthusiast • Full Stack Engineer**
+<img src="./assets/header.svg" width="100%" alt="kaushav@github: whoami" />
 
-I'm a developer passionate about building scalable systems, AI-powered tools, and clean user experiences. I work across the full stack.. backend architectures, modern frontend frameworks, and machine intelligence.
+<a href="https://www.linkedin.com/in/kaushav-kumar-2324ab247"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" /></a>
+<a href="https://www.instagram.com/kaushav.jr"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=39d353" /></a>
+<img src="https://komarev.com/ghpvc/?username=kaushav07&label=profile%20views&color=39d353&style=for-the-badge" />
 
----
+</div>
 
-### **🚀 About Me**
+<img src="./assets/whoami.svg" width="100%" alt="whoami" />
 
-* 💼 Software Developer & Cyber Security Analyst
-* 🤖 AI, NLP, Cloud & Cybersecurity Enthusiast
+### `~/ about.txt`
 
----
+```bash
+$ cat about.txt
+```
 
-### **🧠 Tech Stack**
+I build products that sit between AI, mobile and the web.
 
-#### **Languages**
+- 💻 Software Developer Engineer at **Pine Careers**: iOS apps and TypeScript web apps on Cloudflare
+- 📐 Studying Mathematics at the University of Delhi
+- ☕ I convert caffeine into code
 
-Python • Kotlin • Java • JavaScript • TypeScript • Dart • SQL
+### `~/ stack`
 
-#### **Frameworks & Tools**
-
-React • Node.js • Flutter • Django • FastAPI • Firebase • Vercel
-OpenCV • HuggingFace • Vertex AI • Streamlit • Git • Mediapipe
-
-#### **Domains**
-
-AI/ML • NLP • Full-Stack Development • Cloud Systems
-Cybersecurity • Data Analysis • Applied Mathematics
-
----
-
-## 📊 GitHub Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaushav07&theme=tokyonight" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,kotlin,swift,dart,flutter,react,nodejs,fastapi,django,cloudflare,firebase,opencv,git&theme=dark&perline=16" />
 </p>
 
----
+### `~/ projects`
 
-## **📉 Activity Graph**
+| Project | What it is |
+|---|---|
+| [**VisionMate**](https://github.com/kaushav07/VisionMate) | <!-- one line: what it does --> Python |
+| [**celestial-engine**](https://github.com/kaushav07/celestial-engine) · [frontend](https://github.com/kaushav07/CelestialEngine-frontend) | <!-- one line --> Python + TypeScript |
+| [**image-to-latex**](https://github.com/kaushav07/image-to-latex) · [backend](https://github.com/kaushav07/image-to-latex-backend) | <!-- one line --> Python |
+| [**misinformation-ai**](https://github.com/kaushav07/misinformation-ai) | <!-- one line --> Python |
+| [**what-am-i-missing**](https://github.com/kaushav07/what-am-i-missing) | <!-- one line --> Python |
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushav07&bg_color=000000&color=ffffff&line=9f7eff&point=6d28d9&area=true&hide_border=true" />
-</p>
+<img src="./assets/contributions.svg" width="100%" alt="contributions" />
 
----
+<img src="./assets/stats.svg" width="100%" alt="stats" />
 
-⭐ **Thanks for visiting... always building, always learning!**
+<div align="center">
+<sub><code>kaushav@github:~$ exit</code> · panels refresh daily</sub>
+</div>
