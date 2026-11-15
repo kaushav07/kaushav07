@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="kaushav@github: whoami" />
+<img src="header.svg" width="100%" alt="kaushav@github: whoami" />
 
 <a href="https://www.linkedin.com/in/kaushav-kumar-2324ab247"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=39d353" /></a>
 <a href="https://www.instagram.com/kaushav.jr"><img src="https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=39d353" /></a>
@@ -8,7 +8,7 @@
 
 </div>
 
-<img src="assets/whoami.svg" width="100%" alt="whoami" />
+<img src="whoami.svg" width="100%" alt="whoami" />
 
 ### `~/ about.txt`
 
